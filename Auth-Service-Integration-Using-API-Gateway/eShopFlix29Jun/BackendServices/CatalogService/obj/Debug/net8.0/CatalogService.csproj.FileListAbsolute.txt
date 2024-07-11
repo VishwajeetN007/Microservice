@@ -34,6 +34,7 @@ C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gatewa
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\BackendServices\CatalogService\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\BackendServices\CatalogService\bin\Debug\net8.0\appsettings.json
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\BackendServices\CatalogService\bin\Debug\net8.0\efpt.config.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\BackendServices\CatalogService\bin\Debug\net8.0\CatalogService.staticwebassets.runtime.json
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\BackendServices\CatalogService\bin\Debug\net8.0\CatalogService.exe
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\BackendServices\CatalogService\bin\Debug\net8.0\CatalogService.deps.json
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\BackendServices\CatalogService\bin\Debug\net8.0\CatalogService.runtimeconfig.json
@@ -103,4 +104,3 @@ C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\BackendServices\CatalogService\obj\Debug\net8.0\CatalogService.pdb
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\BackendServices\CatalogService\obj\Debug\net8.0\CatalogService.genruntimeconfig.cache
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\BackendServices\CatalogService\obj\Debug\net8.0\ref\CatalogService.dll
-C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\BackendServices\CatalogService\bin\Debug\net8.0\CatalogService.staticwebassets.runtime.json

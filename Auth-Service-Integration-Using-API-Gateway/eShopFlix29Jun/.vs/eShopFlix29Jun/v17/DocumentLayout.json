@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\apigateways\\apigateway.web\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|solutionrelative:apigateways\\apigateway.web\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\apigateways\\apigateway.web\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|solutionrelative:apigateways\\apigateway.web\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\database\\sqlscripts\\seeddata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\database\\sqlscripts\\seeddata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,11 +138,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\ProductController.cs",
@@ -154,12 +150,11 @@
               "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T11:58:50.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T11:58:50.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\Models\\ProductModel.cs",
@@ -167,12 +162,11 @@
               "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Models\\ProductModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T11:51:16.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T11:51:16.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\HttpClients\\ProductService.cs",
               "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\HttpClients\\ProductService.cs",
@@ -180,8 +174,7 @@
               "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\HttpClients\\ProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T11:45:14.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T11:45:14.687Z"
             },
             {
               "$type": "Document",
@@ -193,25 +186,24 @@
               "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T11:38:42.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T11:38:42.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ocelot.json",
               "RelativeDocumentMoniker": "ApiGateways\\ApiGateway.Web\\ocelot.json",
               "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ocelot.json",
               "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\ocelot.json",
-              "ViewState": "AQIAAAQAAAAAAADVmzorwBsAAAAZAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-11T06:38:05.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Program.cs",
               "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\Program.cs",
@@ -224,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\appsettings.json",
               "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\appsettings.json",
@@ -232,8 +224,7 @@
               "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T06:46:08.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T06:46:08.675Z"
             },
             {
               "$type": "Document",
@@ -245,8 +236,7 @@
               "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T06:38:13.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T06:38:13.139Z"
             },
             {
               "$type": "Document",
@@ -258,8 +248,7 @@
               "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:42:47.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T10:42:47.055Z"
             },
             {
               "$type": "Document",
@@ -271,8 +260,7 @@
               "RelativeToolTip": "BackendServices\\CatalogService\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:47:42.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T08:47:42.709Z"
             },
             {
               "$type": "Document",
@@ -284,8 +272,7 @@
               "RelativeToolTip": "BackendServices\\CatalogService\\Services\\Implementations\\ProductService.cs",
               "ViewState": "AQIAAB4AAAAAAAAm3rITwBwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:52:34.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T08:52:34.948Z"
             },
             {
               "$type": "Document",
@@ -310,8 +297,7 @@
               "RelativeToolTip": "BackendServices\\CatalogService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T09:29:02.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T09:29:02.26Z"
             },
             {
               "$type": "Document",
@@ -323,8 +309,7 @@
               "RelativeToolTip": "BackendServices\\CatalogService\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T09:31:50.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T09:31:50.203Z"
             },
             {
               "$type": "Document",
@@ -336,8 +321,7 @@
               "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:41:33.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T10:41:33.675Z"
             },
             {
               "$type": "Document",
@@ -349,8 +333,7 @@
               "RelativeToolTip": "BackendServices\\OrderService\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T10:42:05.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T10:42:05.974Z"
             },
             {
               "$type": "Document",
@@ -362,21 +345,19 @@
               "RelativeToolTip": "BackendServices\\CatalogService\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAYAAAAAAAAAAgAowBoAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T10:06:08.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T10:06:08.539Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "CatalogService",
+              "Title": "CatalogService.csproj",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\CatalogService.csproj",
               "RelativeDocumentMoniker": "BackendServices\\CatalogService\\CatalogService.csproj",
               "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\CatalogService.csproj",
               "RelativeToolTip": "BackendServices\\CatalogService\\CatalogService.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-11T09:09:30.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T09:09:30.553Z"
             },
             {
               "$type": "Document",
@@ -388,8 +369,7 @@
               "RelativeToolTip": "BackendServices\\CatalogService\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T09:52:31.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T09:52:31.62Z"
             },
             {
               "$type": "Document",
@@ -401,8 +381,7 @@
               "RelativeToolTip": "BackendServices\\CatalogService\\Services\\Implementations\\CategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:52:58.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T08:52:58.436Z"
             },
             {
               "$type": "Document",
@@ -414,8 +393,7 @@
               "RelativeToolTip": "BackendServices\\CatalogService\\Services\\Interfaces\\ICategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:50:47.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T08:50:47.139Z"
             },
             {
               "$type": "Document",
@@ -427,8 +405,7 @@
               "RelativeToolTip": "BackendServices\\CatalogService\\Services\\Interfaces\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:51:10.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T08:51:10.005Z"
             },
             {
               "$type": "Document",
@@ -440,20 +417,18 @@
               "RelativeToolTip": "BackendServices\\CatalogService\\Database\\AppDbContext.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAiwCgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T09:22:55.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T09:22:55.949Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "SeedData.sql ",
+              "Title": "SeedData.sql",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Database\\SQLScripts\\SeedData.sql",
               "RelativeDocumentMoniker": "BackendServices\\CatalogService\\Database\\SQLScripts\\SeedData.sql",
               "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Database\\SQLScripts\\SeedData.sql",
               "RelativeToolTip": "BackendServices\\CatalogService\\Database\\SQLScripts\\SeedData.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-11T09:03:13.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T09:03:13.92Z"
             },
             {
               "$type": "Document",
@@ -465,8 +440,7 @@
               "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAQAAAAAAACK8fowwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T06:38:19.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T06:38:19.683Z"
             },
             {
               "$type": "Document",
@@ -478,8 +452,7 @@
               "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T06:46:54.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T06:46:54.096Z"
             },
             {
               "$type": "Document",
@@ -491,8 +464,7 @@
               "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAsAAAAAAAA0ZaEbwBwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T06:31:05.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T06:31:05.105Z"
             },
             {
               "$type": "Document",
@@ -504,8 +476,7 @@
               "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAUAAAAAAAAeM/USwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T06:34:32.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T06:34:32.672Z"
             },
             {
               "$type": "Document",
@@ -530,8 +501,7 @@
               "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Helpers\\BaseViewPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T06:30:48.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T06:30:48.768Z"
             },
             {
               "$type": "Document",
@@ -543,8 +513,7 @@
               "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T06:27:30.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T06:27:30.682Z"
             },
             {
               "$type": "Document",
@@ -556,8 +525,7 @@
               "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T06:26:37.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T06:26:37.487Z"
             }
           ]
         }

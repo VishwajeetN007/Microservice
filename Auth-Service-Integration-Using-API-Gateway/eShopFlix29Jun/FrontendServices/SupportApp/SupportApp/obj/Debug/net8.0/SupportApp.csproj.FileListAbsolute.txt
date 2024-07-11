@@ -215,6 +215,7 @@ C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\SupportApp\SupportApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SupportApp.props
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\SupportApp\SupportApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SupportApp.props
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\SupportApp\SupportApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\SupportApp\SupportApp\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\SupportApp\SupportApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\SupportApp\SupportApp\obj\Debug\net8.0\scopedcss\bundle\SupportApp.styles.css
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\SupportApp\SupportApp\obj\Debug\net8.0\scopedcss\projectbundle\SupportApp.bundle.scp.css
@@ -224,4 +225,3 @@ C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\SupportApp\SupportApp\obj\Debug\net8.0\SupportApp.pdb
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\SupportApp\SupportApp\obj\Debug\net8.0\SupportApp.genruntimeconfig.cache
 C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\SupportApp\SupportApp\obj\Debug\net8.0\ref\SupportApp.dll
-C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\SupportApp\SupportApp\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
