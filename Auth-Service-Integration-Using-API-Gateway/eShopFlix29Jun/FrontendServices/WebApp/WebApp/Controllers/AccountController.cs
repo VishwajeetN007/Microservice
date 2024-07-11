@@ -54,7 +54,10 @@ namespace WebApp.Controllers
                 if (user != null)
                 {
                     GenerateTicket(user);
-                    return RedirectToAction("Index", "Home", new { area = "User" });
+                    if (user.Roles.Contains("User"))
+                    {
+                        return RedirectToAction("Index", "Home", new { area = "User" });
+                    }
                 }
                 }
             return View(loginModel);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\OrderService.csproj": {}
+    "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\OrderService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\OrderService.csproj": {
+    "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\OrderService.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\OrderService.csproj",
+        "projectPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\OrderService.csproj",
         "packagesPath": "C:\\Users\\VishwajitNikam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\obj\\",
+        "outputPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VishwajitNikam\\AppData\\Roaming\\NuGet\\NuGet.Config",

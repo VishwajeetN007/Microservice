@@ -1,122 +1,138 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\",
+  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\httpclients\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\httpclients\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|solutionrelative:backendservices\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\httpclients\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\httpclients\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\areas\\user\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\areas\\user\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\helpers\\baseviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\helpers\\baseviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\areas\\user\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\areas\\user\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|solutionrelative:backendservices\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\apigateways\\apigateway.web\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\apigateways\\apigateway.web\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|solutionrelative:apigateways\\apigateway.web\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\authservice\\authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|solutionrelative:backendservices\\authservice\\authservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|solutionrelative:backendservices\\authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\apigateways\\apigateway.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\apigateways\\apigateway.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|solutionrelative:apigateways\\apigateway.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\apigateways\\apigateway.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|solutionrelative:apigateways\\apigateway.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\apigateways\\apigateway.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\apigateways\\apigateway.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|solutionrelative:apigateways\\apigateway.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|solutionrelative:backendservices\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\authservice\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|solutionrelative:backendservices\\authservice\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\authservice\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|solutionrelative:backendservices\\authservice\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79E707EF-0D57-4824-B1B1-B9C82A48EFE1}|BackendServices\\OrderService\\OrderService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E707EF-0D57-4824-B1B1-B9C82A48EFE1}|BackendServices\\OrderService\\OrderService.csproj|solutionrelative:backendservices\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\authservice\\repository\\implementations\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|solutionrelative:backendservices\\authservice\\repository\\implementations\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\authservice\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|solutionrelative:backendservices\\authservice\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|c:\\users\\public\\documents\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\authservice\\repository\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|solutionrelative:backendservices\\authservice\\repository\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\catalogservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\catalogservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\database\\sqlscripts\\seeddata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\database\\sqlscripts\\seeddata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\apigateways\\apigateway.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{267603F6-D938-4329-A9C7-7FF5113C8405}|ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj|solutionrelative:apigateways\\apigateway.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BD24B5-7942-45BC-A690-2A107EFC6AAF}|BackendServices\\AuthService\\AuthService.csproj|solutionrelative:backendservices\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\webapp\\webapp\\helpers\\baseviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B6675A-5EC8-40AA-84BB-D246A2E4E8B4}|FrontendServices\\WebApp\\WebApp\\WebApp.csproj|solutionrelative:frontendservices\\webapp\\webapp\\helpers\\baseviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\frontendservices\\supportapp\\supportapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D11756-4CBB-4160-82F7-F7A93113D0A6}|FrontendServices\\SupportApp\\SupportApp\\SupportApp.csproj|solutionrelative:frontendservices\\supportapp\\supportapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\auth-service-integration-using-api-gateway\\eshopflix29jun\\backendservices\\catalogservice\\database\\sqlscripts\\seeddata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{20423511-5580-42BB-9005-E2EC64440B0A}|BackendServices\\CatalogService\\CatalogService.csproj|solutionrelative:backendservices\\catalogservice\\database\\sqlscripts\\seeddata.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,358 +142,422 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAkwDwAAAAIAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T18:27:24.626Z",
+              "WhenOpened": "2024-07-11T11:58:50.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T19:57:17.323Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T20:05:52.515Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\HttpClients\\AuthService.cs",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\HttpClients\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\HttpClients\\AuthService.cs",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\HttpClients\\AuthService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAAIAAAA",
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Models\\ProductModel.cs",
+              "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T18:44:23.983Z",
+              "WhenOpened": "2024-07-11T11:51:16.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Program.cs",
-              "RelativeDocumentMoniker": "BackendServices\\AuthService\\Program.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Program.cs",
-              "RelativeToolTip": "BackendServices\\AuthService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\HttpClients\\ProductService.cs",
+              "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\HttpClients\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\HttpClients\\ProductService.cs",
+              "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\HttpClients\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T05:52:51.825Z"
+              "WhenOpened": "2024-07-11T11:45:14.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:38:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateways\\ApiGateway.Web\\ocelot.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ocelot.json",
+              "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\ocelot.json",
+              "ViewState": "AQIAAAQAAAAAAADVmzorwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T06:38:05.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Program.cs",
+              "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Program.cs",
+              "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAA0fMkvwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:21:32.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\appsettings.json",
+              "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T06:46:08.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateways\\ApiGateway.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\appsettings.json",
+              "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T06:38:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Program.cs",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateways\\ApiGateway.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\Program.cs",
+              "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T18:55:51.641Z",
+              "WhenOpened": "2024-07-11T10:42:47.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BackendServices\\CatalogService\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:47:42.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "BackendServices\\CatalogService\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAm3rITwBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:52:34.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAEnckqwCYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:41:55.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Areas\\User\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Areas\\User\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Areas\\User\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Areas\\User\\Controllers\\BaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T19:10:46.649Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\appsettings.json",
+              "RelativeToolTip": "BackendServices\\CatalogService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T09:29:02.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "WebApp.csproj",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\WebApp.csproj",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\WebApp.csproj",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\WebApp.csproj",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\WebApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-04T18:44:04.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseViewPage.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Helpers\\BaseViewPage.cs",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Helpers\\BaseViewPage.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Helpers\\BaseViewPage.cs",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Helpers\\BaseViewPage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Program.cs",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Program.cs",
+              "RelativeToolTip": "BackendServices\\CatalogService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T19:39:43.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Areas\\User\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Areas\\User\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Areas\\User\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Areas\\User\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T19:41:29.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T19:54:17.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAswCkAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-04T20:01:32.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Areas\\User\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Areas\\User\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Areas\\User\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Areas\\User\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T19:11:18.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Models\\UserModel.cs",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Models\\UserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T18:24:58.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Models\\LoginModel.cs",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Models\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T18:24:56.767Z"
+              "WhenOpened": "2024-07-11T09:31:50.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Controllers\\HomeController.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Program.cs",
+              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T18:24:26.057Z"
+              "WhenOpened": "2024-07-11T10:41:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "BackendServices\\OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\OrderService\\Program.cs",
+              "RelativeToolTip": "BackendServices\\OrderService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:42:05.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackendServices\\CatalogService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAgAowBoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T10:06:08.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "BackendServices\\AuthService\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "BackendServices\\AuthService\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAoAAAAAAABaLRkTwBYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T05:48:19.6Z"
+              "Title": "CatalogService",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\CatalogService.csproj",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\CatalogService.csproj",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\CatalogService.csproj",
+              "RelativeToolTip": "BackendServices\\CatalogService\\CatalogService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T09:09:30.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "ocelot.json",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ocelot.json",
-              "RelativeDocumentMoniker": "ApiGateways\\ApiGateway.Web\\ocelot.json",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ocelot.json",
-              "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\ocelot.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-04T11:13:22.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\Program.cs",
-              "RelativeDocumentMoniker": "ApiGateways\\ApiGateway.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\Program.cs",
-              "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BackendServices\\CatalogService\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T11:50:32.224Z"
+              "WhenOpened": "2024-07-11T09:52:31.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "AuthService.http",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\AuthService.http",
-              "RelativeDocumentMoniker": "BackendServices\\AuthService\\AuthService.http",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\AuthService.http",
-              "RelativeToolTip": "BackendServices\\AuthService\\AuthService.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-04T12:16:21.805Z"
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "BackendServices\\CatalogService\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:52:58.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BackendServices\\AuthService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BackendServices\\AuthService\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-04T14:38:19.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\appsettings.json",
-              "RelativeDocumentMoniker": "BackendServices\\AuthService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\appsettings.json",
-              "RelativeToolTip": "BackendServices\\AuthService\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-04T14:29:28.002Z"
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "BackendServices\\CatalogService\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:50:47.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ApiGateways\\ApiGateway.Web\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-04T14:44:42.102Z"
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "BackendServices\\CatalogService\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:51:10.005Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "ApiGateways\\ApiGateway.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\appsettings.json",
-              "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-04T14:47:06.225Z"
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "BackendServices\\CatalogService\\Database\\AppDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:22:55.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "BackendServices\\AuthService\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Models\\LoginModel.cs",
-              "RelativeToolTip": "BackendServices\\AuthService\\Models\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T19:12:10.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "BackendServices\\AuthService\\Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Models\\UserModel.cs",
-              "RelativeToolTip": "BackendServices\\AuthService\\Models\\UserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T19:13:18.384Z"
+              "DocumentIndex": 23,
+              "Title": "SeedData.sql ",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Database\\SQLScripts\\SeedData.sql",
+              "RelativeDocumentMoniker": "BackendServices\\CatalogService\\Database\\SQLScripts\\SeedData.sql",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\CatalogService\\Database\\SQLScripts\\SeedData.sql",
+              "RelativeToolTip": "BackendServices\\CatalogService\\Database\\SQLScripts\\SeedData.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-11T09:03:13.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Repository\\Implementations\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "BackendServices\\AuthService\\Repository\\Implementations\\AuthRepository.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Repository\\Implementations\\AuthRepository.cs",
-              "RelativeToolTip": "BackendServices\\AuthService\\Repository\\Implementations\\AuthRepository.cs",
-              "ViewState": "AQIAABMAAAAAAACoidAcwDQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T19:10:28.937Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateways\\ApiGateway.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateways\\ApiGateway.Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAQAAAAAAACK8fowwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T06:38:19.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Database\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BackendServices\\AuthService\\Database\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Database\\AppDbContext.cs",
-              "RelativeToolTip": "BackendServices\\AuthService\\Database\\AppDbContext.cs",
-              "ViewState": "AQIAABkAAAAAAAD81y4HwCsAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T09:01:49.409Z"
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T06:46:54.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAA0ZaEbwBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:31:05.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "IAuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Repository\\Interfaces\\IAuthRepository.cs",
-              "RelativeDocumentMoniker": "BackendServices\\AuthService\\Repository\\Interfaces\\IAuthRepository.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Repository\\Interfaces\\IAuthRepository.cs",
-              "RelativeToolTip": "BackendServices\\AuthService\\Repository\\Interfaces\\IAuthRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAYAAAA",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAeM/USwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T06:34:32.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BackendServices\\AuthService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\BackendServices\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BackendServices\\AuthService\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T19:10:20.858Z"
+              "WhenOpened": "2024-07-11T06:55:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseViewPage.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Helpers\\BaseViewPage.cs",
+              "RelativeDocumentMoniker": "FrontendServices\\WebApp\\WebApp\\Helpers\\BaseViewPage.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\WebApp\\WebApp\\Helpers\\BaseViewPage.cs",
+              "RelativeToolTip": "FrontendServices\\WebApp\\WebApp\\Helpers\\BaseViewPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:30:48.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:27:30.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontendServices\\SupportApp\\SupportApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:26:37.487Z",
+              "EditorCaption": ""
             }
           ]
         }

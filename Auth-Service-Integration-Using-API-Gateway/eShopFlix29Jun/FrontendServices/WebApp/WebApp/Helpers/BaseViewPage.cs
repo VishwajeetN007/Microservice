@@ -11,6 +11,7 @@ namespace WebApp.Helpers
         {
             get
             {
+                // Get the ClaimsPrincipal of the current logged in user.
                 if (User.Claims.Count() > 0)
                 {
                     string userdata = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.UserData).Value;

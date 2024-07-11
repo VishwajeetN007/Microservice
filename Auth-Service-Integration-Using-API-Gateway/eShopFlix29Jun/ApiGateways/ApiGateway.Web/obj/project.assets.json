@@ -824,11 +824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj",
       "projectName": "ApiGateway.Web",
-      "projectPath": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj",
+      "projectPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj",
       "packagesPath": "C:\\Users\\VishwajitNikam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Public\\Documents\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\obj\\",
+      "outputPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Auth-Service-Integration-Using-API-Gateway\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VishwajitNikam\\AppData\\Roaming\\NuGet\\NuGet.Config",
