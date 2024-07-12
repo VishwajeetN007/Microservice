@@ -24,6 +24,7 @@ builder.Services.AddHttpClient<ProductService>(client =>
 {
     client.BaseAddress = new Uri(builder.Configuration["ApiGatewayAddress"]);
 });
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
 var app = builder.Build();
 

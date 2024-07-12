@@ -4,15 +4,15 @@ using System.Text.Json;
 
 namespace SupportApp.HttpClients
 {
-    public class ProductService
+    public class ProductService : BaseService
     {
         HttpClient _client;
-        public ProductService(HttpClient client)
+        public ProductService(HttpClient client, IHttpContextAccessor httpContextAccessor) : base(httpContextAccessor)
         {
             _client = client;
         }
 
-        public async Task<IEnumerable<ProductModel>> GetAll(LoginModel loginModel)
+        public async Task<IEnumerable<ProductModel>> GetAll()
         {
             var response = await _client.GetAsync("product/getall");
             if (response.IsSuccessStatusCode)

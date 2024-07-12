@@ -8,7 +8,7 @@ using System.Text.Json;
 
 namespace SupportApp.Controllers
 {
-    public class AccountController : Controller
+    public class AccountController : BaseController
     {
         AuthService _authService;
         public AccountController(AuthService authService)
@@ -36,6 +36,10 @@ namespace SupportApp.Controllers
 
         public IActionResult Login()
         {
+            if (CurrentUser != null)
+            {
+                return RedirectToAction("Index", "Home", new { area = "Admin" });
+            }
             return View();
         }
 

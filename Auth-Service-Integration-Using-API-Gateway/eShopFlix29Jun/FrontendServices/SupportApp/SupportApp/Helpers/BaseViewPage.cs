@@ -11,6 +11,7 @@ namespace SupportApp.Helpers
         {
             get
             {
+                //Get the ClaimsPrincipal for user associated with the executing action.
                 if (User.Claims.Count() > 0)
                 {
                     string userdata = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.UserData).Value;
