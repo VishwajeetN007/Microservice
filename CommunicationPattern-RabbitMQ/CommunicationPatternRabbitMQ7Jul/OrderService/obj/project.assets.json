@@ -1294,11 +1294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\OrderService.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\OrderService.csproj",
       "projectName": "OrderService",
-      "projectPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\OrderService.csproj",
+      "projectPath": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\OrderService.csproj",
       "packagesPath": "C:\\Users\\VishwajitNikam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\obj\\",
+      "outputPath": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VishwajitNikam\\AppData\\Roaming\\NuGet\\NuGet.Config",

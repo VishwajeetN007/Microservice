@@ -1,0 +1,15 @@
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\bin\Debug\net8.0\DockerConsoleApp.exe
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\bin\Debug\net8.0\DockerConsoleApp.deps.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\bin\Debug\net8.0\DockerConsoleApp.runtimeconfig.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\bin\Debug\net8.0\DockerConsoleApp.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\bin\Debug\net8.0\DockerConsoleApp.pdb
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\obj\Debug\net8.0\DockerConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\obj\Debug\net8.0\DockerConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\obj\Debug\net8.0\DockerConsoleApp.AssemblyInfo.cs
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\obj\Debug\net8.0\DockerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\obj\Debug\net8.0\DockerConsoleApp.sourcelink.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\obj\Debug\net8.0\DockerConsoleApp.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\obj\Debug\net8.0\refint\DockerConsoleApp.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\obj\Debug\net8.0\DockerConsoleApp.pdb
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\obj\Debug\net8.0\DockerConsoleApp.genruntimeconfig.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Docker-ConsoleApp\DockerConsoleApp\DockerConsoleApp\obj\Debug\net8.0\ref\DockerConsoleApp.dll

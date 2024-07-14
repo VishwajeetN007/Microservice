@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\InventoryService.csproj": {}
+    "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\InventoryService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\InventoryService.csproj": {
+    "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\InventoryService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\InventoryService.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\InventoryService.csproj",
         "projectName": "InventoryService",
-        "projectPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\InventoryService.csproj",
+        "projectPath": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\InventoryService.csproj",
         "packagesPath": "C:\\Users\\VishwajitNikam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\obj\\",
+        "outputPath": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VishwajitNikam\\AppData\\Roaming\\NuGet\\NuGet.Config",

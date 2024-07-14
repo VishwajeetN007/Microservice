@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\",
+  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\communicationpatternrabbitmq\\communicationpatternrabbitmq7jul\\inventoryservice\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|c:\\users\\public\\documents\\test\\microservice\\communicationpattern-rabbitmq\\communicationpatternrabbitmq7jul\\inventoryservice\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\communicationpatternrabbitmq\\communicationpatternrabbitmq7jul\\inventoryservice\\consumers\\orderconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|c:\\users\\public\\documents\\test\\microservice\\communicationpattern-rabbitmq\\communicationpatternrabbitmq7jul\\inventoryservice\\consumers\\orderconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\consumers\\orderconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949E46E4-F29E-4D8D-9C2B-F1B67B88B22E}|OrderService\\OrderService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\communicationpatternrabbitmq\\communicationpatternrabbitmq7jul\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{949E46E4-F29E-4D8D-9C2B-F1B67B88B22E}|OrderService\\OrderService.csproj|c:\\users\\public\\documents\\test\\microservice\\communicationpattern-rabbitmq\\communicationpatternrabbitmq7jul\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{949E46E4-F29E-4D8D-9C2B-F1B67B88B22E}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\communicationpatternrabbitmq\\communicationpatternrabbitmq7jul\\inventoryservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|c:\\users\\public\\documents\\test\\microservice\\communicationpattern-rabbitmq\\communicationpatternrabbitmq7jul\\inventoryservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\communicationpatternrabbitmq\\communicationpatternrabbitmq7jul\\inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|c:\\users\\public\\documents\\test\\microservice\\communicationpattern-rabbitmq\\communicationpatternrabbitmq7jul\\inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEF4C500-6415-4582-9845-8E2781A28F96}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949E46E4-F29E-4D8D-9C2B-F1B67B88B22E}|OrderService\\OrderService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\communicationpatternrabbitmq\\communicationpatternrabbitmq7jul\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{949E46E4-F29E-4D8D-9C2B-F1B67B88B22E}|OrderService\\OrderService.csproj|c:\\users\\public\\documents\\test\\microservice\\communicationpattern-rabbitmq\\communicationpatternrabbitmq7jul\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{949E46E4-F29E-4D8D-9C2B-F1B67B88B22E}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949E46E4-F29E-4D8D-9C2B-F1B67B88B22E}|OrderService\\OrderService.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\communicationpatternrabbitmq\\communicationpatternrabbitmq7jul\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{949E46E4-F29E-4D8D-9C2B-F1B67B88B22E}|OrderService\\OrderService.csproj|c:\\users\\public\\documents\\test\\microservice\\communicationpattern-rabbitmq\\communicationpatternrabbitmq7jul\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{949E46E4-F29E-4D8D-9C2B-F1B67B88B22E}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -38,30 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderConsumer.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Consumers\\OrderConsumer.cs",
-              "RelativeDocumentMoniker": "InventoryService\\Consumers\\OrderConsumer.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Consumers\\OrderConsumer.cs",
-              "RelativeToolTip": "InventoryService\\Consumers\\OrderConsumer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T15:12:52.508Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "InventoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Controllers\\InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Controllers\\InventoryController.cs",
               "RelativeDocumentMoniker": "InventoryService\\Controllers\\InventoryController.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Controllers\\InventoryController.cs",
               "RelativeToolTip": "InventoryService\\Controllers\\InventoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T15:10:52.003Z",
               "EditorCaption": ""
@@ -70,65 +57,74 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\Program.cs",
               "RelativeDocumentMoniker": "OrderService\\Program.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\Program.cs",
               "RelativeToolTip": "OrderService\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T14:57:36.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T14:57:36.539Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Program.cs",
               "RelativeDocumentMoniker": "InventoryService\\Program.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Program.cs",
               "RelativeToolTip": "InventoryService\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAABsA4ARwA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T14:56:05.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T14:56:05.116Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\appsettings.json",
               "RelativeDocumentMoniker": "InventoryService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\appsettings.json",
               "RelativeToolTip": "InventoryService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-13T14:53:08.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T14:53:08.239Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\appsettings.json",
               "RelativeDocumentMoniker": "OrderService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\appsettings.json",
               "RelativeToolTip": "OrderService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-13T14:51:58.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T14:51:58.746Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\OrderService\\Controllers\\OrderController.cs",
               "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAR1wowwBoAAAAvAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwDIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T14:48:58.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Consumers\\OrderConsumer.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Consumers\\OrderConsumer.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\Consumers\\OrderConsumer.cs",
+              "RelativeToolTip": "InventoryService\\Consumers\\OrderConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:12:52.508Z",
               "EditorCaption": ""
             }
           ]

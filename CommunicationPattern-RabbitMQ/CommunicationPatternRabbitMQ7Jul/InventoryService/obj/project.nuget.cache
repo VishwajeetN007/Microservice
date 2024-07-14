@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LrxsirwFu2c=",
+  "dgSpecHash": "ckO9tb36rcs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPatternRabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\InventoryService.csproj",
+  "projectFilePath": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-RabbitMQ\\CommunicationPatternRabbitMQ7Jul\\InventoryService\\InventoryService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VishwajitNikam\\.nuget\\packages\\masstransit\\8.2.3\\masstransit.8.2.3.nupkg.sha512",
     "C:\\Users\\VishwajitNikam\\.nuget\\packages\\masstransit.abstractions\\8.2.3\\masstransit.abstractions.8.2.3.nupkg.sha512",
