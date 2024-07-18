@@ -1,0 +1,140 @@
+name: dockercompose4981463753949237232
+services:
+  db:
+    container_name: sqlcontainerdb
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: YourStrong@Passw0rd
+    image: mcr.microsoft.com/mssql/server:2022-CU12-ubuntu-22.04
+    networks:
+      docker_app:
+        ipv4_address: 172.16.238.10
+        ipv6_address: 2001:3984:3989::10
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "14333"
+        protocol: tcp
+  webappcontainer:
+    build:
+      context: C:\Users\Public\Documents\ScholarHat\Microservice\WebApp-Container\WebAppContainer
+      dockerfile: WebAppContainer/Dockerfile
+      args:
+        BUILD_CONFIGURATION: Debug
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: WebAppContainer
+      target: base
+    container_name: webappcontainer
+    depends_on:
+      db:
+        condition: service_started
+        required: true
+    entrypoint:
+      - dotnet
+      - --roll-forward
+      - Major
+      - /VSTools/DistrolessHelper/DistrolessHelper.dll
+      - --wait
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      DB_CONNECTION: Server=db,1433;Database=MyDb;User Id=sa;Password=YourStrong@Passw0rd;TrustServerCertificate=True
+      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      NUGET_FALLBACK_PACKAGES: ""
+      WAIT_HOSTS: mssql:1433
+      WAIT_HOSTS_TIMEOUT: "3000"
+    image: webappcontainer:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages  "/app/bin/Debug/net8.0/WebAppContainer.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      docker_app:
+        ipv4_address: 172.16.238.11
+        ipv6_address: 2001:3984:3989::11
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "5011"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "5012"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    tty: true
+    volumes:
+      - type: bind
+        source: C:\Users\VishwajitNikam\AppData\Roaming\Microsoft\UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\VishwajitNikam\AppData\Roaming\ASP.NET\Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Public\Documents\ScholarHat\Microservice\WebApp-Container\WebAppContainer\WebAppContainer
+        target: /app
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Public\Documents\ScholarHat\Microservice\WebApp-Container\WebAppContainer
+        target: /src
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\VishwajitNikam\vsdbg\vs2017u5
+        target: /remote_debugger
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\VishwajitNikam\.nuget\packages
+        target: /.nuget/packages
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\VishwajitNikam\AppData\Roaming\ASP.NET\Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\VishwajitNikam\AppData\Roaming\Microsoft\UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\linux-x64\net8.0
+        target: /VSTools
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\HotReload
+        target: /HotReloadAgent
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  docker_app:
+    name: dockercompose4981463753949237232_docker_app
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.16.238.0/24
+        - subnet: 2001:3984:3989::/64

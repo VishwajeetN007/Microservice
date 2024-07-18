@@ -1,0 +1,37 @@
+version: '3.4'
+
+networks:
+  docker_app:
+   driver: overlay
+   ipam: 
+    config: 
+     - subnet: "172.16.238.0/24"
+     - subnet: "2001:3984:3989::/64"
+
+services:
+  db:
+   image: mcr.microsoft.com/mssql/server:2022-CU12-ubuntu-22.04
+   environment:
+     SA_PASSWORD: "YourStrong@Passw0rd"
+     ACCEPT_EULA: "Y"
+   networks:
+      docker_app:
+       ipv4_address: 172.16.238.10
+       ipv6_address: 2001:3984:3989::10
+   ports:
+     - "14333:1433"
+  webappcontainer:
+    image: ${DOCKER_REGISTRY-}webappcontainer
+    depends_on:
+      - db
+    environment: 
+      DB_CONNECTION: "Server=db,1433;Database=MyDb;User Id=sa;Password=YourStrong@Passw0rd;TrustServerCertificate=True"
+      WAIT_HOSTS: mssql:1433
+      WAIT_HOSTS_TIMEOUT: 3000
+    networks:
+      docker_app:
+       ipv4_address: 172.16.238.11
+       ipv6_address: 2001:3984:3989::11
+    ports:
+     - 5011:8080
+     - 5012:8081 
