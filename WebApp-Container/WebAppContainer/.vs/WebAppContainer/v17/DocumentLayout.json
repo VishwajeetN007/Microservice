@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AE80590-7173-466B-8E7E-E987293DFDCF}|Solution Items{9AE80590-7173-466B-8E7E-E987293DFDCF}|C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\docker-stack.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9AE80590-7173-466B-8E7E-E987293DFDCF}|Solution Items{9AE80590-7173-466B-8E7E-E987293DFDCF}|solutionrelative:docker-stack.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6DE842B-F543-498F-9D1F-5E49BED08354}|docker-compose.dcproj|c:\\users\\public\\documents\\scholarhat\\microservice\\webapp-container\\webappcontainer\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A6DE842B-F543-498F-9D1F-5E49BED08354}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE80590-7173-466B-8E7E-E987293DFDCF}|Solution Items{9AE80590-7173-466B-8E7E-E987293DFDCF}|C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\docker-stack.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9AE80590-7173-466B-8E7E-E987293DFDCF}|Solution Items{9AE80590-7173-466B-8E7E-E987293DFDCF}|solutionrelative:docker-stack.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09785328-3719-4B5C-9CD2-830C9DBD4CE6}|WebAppContainer\\WebAppContainer.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\webapp-container\\webappcontainer\\webappcontainer\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -17,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{09785328-3719-4B5C-9CD2-830C9DBD4CE6}|WebAppContainer\\WebAppContainer.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\webapp-container\\webappcontainer\\webappcontainer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{09785328-3719-4B5C-9CD2-830C9DBD4CE6}|WebAppContainer\\WebAppContainer.csproj|solutionrelative:webappcontainer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09785328-3719-4B5C-9CD2-830C9DBD4CE6}|WebAppContainer\\WebAppContainer.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\webapp-container\\webappcontainer\\webappcontainer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09785328-3719-4B5C-9CD2-830C9DBD4CE6}|WebAppContainer\\WebAppContainer.csproj|solutionrelative:webappcontainer\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09785328-3719-4B5C-9CD2-830C9DBD4CE6}|WebAppContainer\\WebAppContainer.csproj|c:\\users\\public\\documents\\scholarhat\\microservice\\webapp-container\\webappcontainer\\webappcontainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "docker-stack.yml",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\docker-stack.yml",
               "RelativeDocumentMoniker": "docker-stack.yml",
@@ -59,19 +55,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\WebAppContainer\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WebAppContainer\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\WebAppContainer\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WebAppContainer\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T15:59:16.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\WebAppContainer\\Properties\\launchSettings.json",
@@ -80,12 +63,11 @@
               "RelativeToolTip": "WebAppContainer\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-18T15:48:29.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T15:48:29.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\WebAppContainer\\Database\\Entities\\User.cs",
               "RelativeDocumentMoniker": "WebAppContainer\\Database\\Entities\\User.cs",
@@ -93,31 +75,29 @@
               "RelativeToolTip": "WebAppContainer\\Database\\Entities\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T15:40:45.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T15:40:45.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WebAppContainer",
+              "DocumentIndex": 5,
+              "Title": "WebAppContainer.csproj",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\WebAppContainer\\WebAppContainer.csproj",
               "RelativeDocumentMoniker": "WebAppContainer\\WebAppContainer.csproj",
               "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\WebAppContainer\\WebAppContainer.csproj",
               "RelativeToolTip": "WebAppContainer\\WebAppContainer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-18T15:25:14.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T15:25:14.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
               "ToolTip": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAACkAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAIAOvH8rwAcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-07-18T14:06:04.709Z",
               "EditorCaption": ""
@@ -132,12 +112,11 @@
               "RelativeToolTip": "WebAppContainer\\Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-18T13:49:27.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T13:49:27.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\WebApp-Container\\WebAppContainer\\WebAppContainer\\Program.cs",
               "RelativeDocumentMoniker": "WebAppContainer\\Program.cs",
@@ -145,8 +124,7 @@
               "RelativeToolTip": "WebAppContainer\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T16:07:23.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T16:07:23.465Z"
             }
           ]
         }
