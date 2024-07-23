@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jV/48ce/ju0=",
+  "dgSpecHash": "buwn8xnuW2Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Public\\Documents\\Test\\Microservice\\CommunicationPattern-ServiceBus\\ServiceBusCommunication\\InventoryService\\InventoryService\\InventoryService.csproj",
+  "projectFilePath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\CommunicationPattern-ServiceBus\\ServiceBusCommunication\\InventoryService\\InventoryService\\InventoryService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VishwajitNikam\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\VishwajitNikam\\.nuget\\packages\\azure.core.amqp\\1.3.0\\azure.core.amqp.1.3.0.nupkg.sha512",
