@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandService", "CommandService\CommandService\CommandService.csproj", "{0E38DD51-99F3-43F6-815E-6B1AF7A34977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryService", "QueryService\QueryService\QueryService.csproj", "{08F5FB13-CF12-4810-9214-BF17328261F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E38DD51-99F3-43F6-815E-6B1AF7A34977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E38DD51-99F3-43F6-815E-6B1AF7A34977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E38DD51-99F3-43F6-815E-6B1AF7A34977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E38DD51-99F3-43F6-815E-6B1AF7A34977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F5FB13-CF12-4810-9214-BF17328261F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F5FB13-CF12-4810-9214-BF17328261F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F5FB13-CF12-4810-9214-BF17328261F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F5FB13-CF12-4810-9214-BF17328261F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC14C49A-3FFA-4618-AA56-93F51A61299E}
+	EndGlobalSection
+EndGlobal
