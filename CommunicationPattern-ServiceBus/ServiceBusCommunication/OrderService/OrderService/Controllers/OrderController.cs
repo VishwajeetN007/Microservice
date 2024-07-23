@@ -20,6 +20,12 @@ namespace OrderService.Controllers
             _sender = _serviceBusClient.CreateSender(_configuration["ServiceBus:QueueName"]);
         }
 
+
+        /// <summary>
+        /// Create Order. Its acts as sender to send a messages.
+        /// </summary>
+        /// <param name="order"></param>
+        /// <returns></returns>
         [HttpPost]
         public async Task<IActionResult> Create(Order order)
         {
