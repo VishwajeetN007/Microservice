@@ -26,6 +26,10 @@ app.UseAuthorization();
 app.MapControllers();
 
 var bus = app.Services.GetService<IOrderConsumer>();
+
+// We can also use GetRequiredService instead of GetService
+// var bus = app.Services.GetRequiredService<IOrderConsumer>();
+
 bus?.RegisterReceiveMessageHandler();
 
 app.Run();

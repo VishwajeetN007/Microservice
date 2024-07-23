@@ -6,6 +6,10 @@ namespace InventoryService.Controllers
     [ApiController]
     public class InventoryController : ControllerBase
     {
+        /// <summary>
+        /// Its acts as a receiver & recevie a Messages.
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public IActionResult Get()
         {
