@@ -1,0 +1,6 @@
+@CommandService_HostAddress = http://localhost:5173
+
+POST {{CommandService_HostAddress}}/product/create
+Accept: application/json
+
+###
