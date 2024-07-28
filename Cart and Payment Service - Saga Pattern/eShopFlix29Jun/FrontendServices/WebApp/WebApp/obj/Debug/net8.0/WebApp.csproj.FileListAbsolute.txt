@@ -1,0 +1,131 @@
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Users\Public\Documents\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Users\Public\Documents\Test\Microservice\Auth-Service-Integration-Using-API-Gateway\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\scopedcss\projectbundle\WebApp.bundle.scp.css
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.csproj.Up2Date
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\obj\Debug\net8.0\ref\WebApp.dll
