@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\dell-laptop.png",
+      "PackagePath": "staticwebassets\\images\\dell-laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\iphone14.png",
+      "PackagePath": "staticwebassets\\images\\iphone14.png"
+    },
+    {
+      "Id": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\macbook.png",
+      "PackagePath": "staticwebassets\\images\\macbook.png"
+    },
+    {
+      "Id": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\samsungs23.png",
+      "PackagePath": "staticwebassets\\images\\samsungs23.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CatalogService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CatalogService.props",
+      "PackagePath": "build\\CatalogService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CatalogService.props",
+      "PackagePath": "buildMultiTargeting\\CatalogService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CatalogService.props",
+      "PackagePath": "buildTransitive\\CatalogService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
