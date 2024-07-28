@@ -52,7 +52,7 @@ namespace AuthService.Repository.Implementations
                 {
                     UserModel userModel = new UserModel()
                     {
-                        UserId = user.Id,
+                        Id = user.Id,
                         Name = user.Name,
                         Email = user.Email,
                         PhoneNumber = user.PhoneNumber,
