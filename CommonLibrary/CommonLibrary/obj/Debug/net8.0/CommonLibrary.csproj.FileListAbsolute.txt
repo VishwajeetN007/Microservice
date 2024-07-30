@@ -1,0 +1,13 @@
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\obj\Debug\net8.0\CommonLibrary.sourcelink.json
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\Public\Documents\ScholarHat\Microservice\CommonLibrary\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
