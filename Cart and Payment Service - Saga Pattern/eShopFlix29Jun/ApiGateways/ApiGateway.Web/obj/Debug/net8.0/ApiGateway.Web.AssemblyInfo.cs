@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiGateway.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d29714fc093ca83f805587449371ba86c308b47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42df95ea7ec0fa200bcf883fb59a68951b4be53f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiGateway.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiGateway.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
