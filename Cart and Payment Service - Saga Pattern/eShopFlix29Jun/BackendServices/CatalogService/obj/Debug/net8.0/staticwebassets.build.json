@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yrQfxjimiYInVG+5rQ9kJr7ZmdYF3Fw+uGqNSzRJY/U=",
+  "Hash": "tAS0Su2lDa67zDpOAWORV5HMc9MpvYZrWLmlYlODH7o=",
   "Source": "CatalogService",
   "BasePath": "_content/CatalogService",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CatalogService\\wwwroot",
       "Source": "CatalogService",
-      "ContentRoot": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\",
       "BasePath": "_content/CatalogService",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\dell-laptop.png",
+      "Identity": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\dell-laptop.png",
       "SourceId": "CatalogService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\",
       "BasePath": "_content/CatalogService",
       "RelativePath": "images/dell-laptop.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dell-laptop.png"
     },
     {
-      "Identity": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\iphone14.png",
+      "Identity": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\iphone14.png",
       "SourceId": "CatalogService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\",
       "BasePath": "_content/CatalogService",
       "RelativePath": "images/iphone14.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\images\\iphone14.png"
     },
     {
-      "Identity": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\macbook.png",
+      "Identity": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\macbook.png",
       "SourceId": "CatalogService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\",
       "BasePath": "_content/CatalogService",
       "RelativePath": "images/macbook.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\images\\macbook.png"
     },
     {
-      "Identity": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\samsungs23.png",
+      "Identity": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\images\\samsungs23.png",
       "SourceId": "CatalogService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\wwwroot\\",
       "BasePath": "_content/CatalogService",
       "RelativePath": "images/samsungs23.png",
       "AssetKind": "All",

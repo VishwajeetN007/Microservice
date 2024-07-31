@@ -42,8 +42,8 @@ namespace CatalogService.Controllers
         {
             try
             {
-                int x = 7, y = 0;
-                int z = x / y;
+                ////int x = 7, y = 0;
+                ////int z = x / y;
 
                 _productService.AddProduct(product);
                 return StatusCode(StatusCodes.Status201Created);

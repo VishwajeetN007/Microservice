@@ -3215,11 +3215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\CatalogService.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\CatalogService.csproj",
       "projectName": "CatalogService",
-      "projectPath": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\CatalogService.csproj",
+      "projectPath": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\CatalogService.csproj",
       "packagesPath": "C:\\Users\\VishwajitNikam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\obj\\",
+      "outputPath": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\CatalogService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VishwajitNikam\\AppData\\Roaming\\NuGet\\NuGet.Config",
