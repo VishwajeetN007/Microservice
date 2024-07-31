@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Ijexntg/L+YdcC4iQQSCu2FUcbp4inIjZKZ359JpFow=",
+  "Source": "LogService",
+  "BasePath": "_content/LogService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LogService\\wwwroot",
+      "Source": "LogService",
+      "ContentRoot": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\LogService\\wwwroot\\",
+      "BasePath": "_content/LogService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

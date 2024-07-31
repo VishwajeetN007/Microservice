@@ -3707,11 +3707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\StockService\\StockService\\StockService.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\StockService\\StockService\\StockService.csproj",
       "projectName": "StockService",
-      "projectPath": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\StockService\\StockService\\StockService.csproj",
+      "projectPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\StockService\\StockService\\StockService.csproj",
       "packagesPath": "C:\\Users\\VishwajitNikam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\StockService\\StockService\\obj\\",
+      "outputPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\StockService\\StockService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VishwajitNikam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3729,8 +3729,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\CommonLibrary\\CommonLibrary.csproj": {
-              "projectPath": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\CommonLibrary\\CommonLibrary.csproj"
+            "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\CommonLibrary\\CommonLibrary.csproj": {
+              "projectPath": "C:\\Users\\Public\\Documents\\ScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\CommonLibrary\\CommonLibrary.csproj"
             }
           }
         }

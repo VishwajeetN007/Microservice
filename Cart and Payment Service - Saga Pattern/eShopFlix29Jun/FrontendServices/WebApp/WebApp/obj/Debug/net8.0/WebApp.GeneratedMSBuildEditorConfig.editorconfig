@@ -9,91 +9,91 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApp
 build_property.RootNamespace = WebApp
-build_property.ProjectDir = C:\Users\Public\Documents\NewestScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\
+build_property.ProjectDir = C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Public\Documents\NewestScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp
+build_property.MSBuildProjectDirectory = C:\Users\Public\Documents\ScholarHat\Microservice\Cart and Payment Service - Saga Pattern\eShopFlix29Jun\FrontendServices\WebApp\WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/Home/Index.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/Order/Index.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xPcmRlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/Shared/Error.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/_ViewImports.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/_ViewStart.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Account/Login.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Cart/CheckOut.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Cart/CheckOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja091dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Cart/Index.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Home/Index.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Home/Privacy.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Payment/Index.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Payment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Payment/Receipt.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Payment/Receipt.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxSZWNlaXB0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Payment/Status.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Payment/Status.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxTdGF0dXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Shared/Error.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/_ViewImports.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/_ViewStart.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/Shared/_Layout.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Areas/User/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-gb4ry1xu0k
 
-[C:/Users/Public/Documents/NewestScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Shared/_Layout.cshtml]
+[C:/Users/Public/Documents/ScholarHat/Microservice/Cart and Payment Service - Saga Pattern/eShopFlix29Jun/FrontendServices/WebApp/WebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7882z672yd
