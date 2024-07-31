@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using WebApp.Helpers;
 using WebApp.HttpClients;
 using WebApp.Models;
 
@@ -21,6 +22,15 @@ namespace WebApp.Controllers
 
         public async Task<IActionResult> Index()
         {
+            ////try
+            ////{
+            ////    int x = 6, y = 0;
+            ////    var z= x / y;
+            ////}
+            ////catch (Exception ex) {
+            ////    LogService.LogError(ex);
+            ////}
+
             var products = await _catalogService.GetProducts();
             return View(products);
         }

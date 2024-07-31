@@ -1,8 +1,19 @@
 using WebApp.HttpClients;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using WebApp.Helpers;
+using Serilog;
+using Serilog.Events;
 
 var builder = WebApplication.CreateBuilder(args);
+
+//// Application Insights configuration.
+builder.Host.UseSerilog((context, services, configuration) => configuration
+    .ReadFrom.Configuration(context.Configuration)
+    .ReadFrom.Services(services)
+    .Enrich.FromLogContext()
+    .WriteTo.ApplicationInsights(builder.Configuration.GetConnectionString("AppInsightConnection"),
+    TelemetryConverter.Traces,LogEventLevel.Error
+    ));
 
 // Add services to the container.
 builder.Services.AddScoped<IServiceBusHelper, ServiceBusHelper>();
