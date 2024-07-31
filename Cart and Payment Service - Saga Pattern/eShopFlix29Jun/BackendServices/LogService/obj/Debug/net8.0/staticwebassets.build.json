@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PK1oSZlxUensTISYmEdjRf+V4du1sgQ+CR6M9J9Nvoo=",
+  "Hash": "KPJzEXed56omw+9fc4lXu02frwdouWEgj/44OLbP8yI=",
   "Source": "LogService",
   "BasePath": "_content/LogService",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "LogService\\wwwroot",
       "Source": "LogService",
-      "ContentRoot": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\LogService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\LogService\\wwwroot\\",
       "BasePath": "_content/LogService",
       "Pattern": "**"
     }

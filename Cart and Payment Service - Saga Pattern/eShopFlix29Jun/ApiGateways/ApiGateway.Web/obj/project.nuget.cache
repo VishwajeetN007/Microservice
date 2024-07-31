@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ysIxoGxgueg=",
+  "dgSpecHash": "h05vx/Qy6Fs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj",
+  "projectFilePath": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\ApiGateways\\ApiGateway.Web\\ApiGateway.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VishwajitNikam\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
     "C:\\Users\\VishwajitNikam\\.nuget\\packages\\ipaddressrange\\6.0.0\\ipaddressrange.6.0.0.nupkg.sha512",

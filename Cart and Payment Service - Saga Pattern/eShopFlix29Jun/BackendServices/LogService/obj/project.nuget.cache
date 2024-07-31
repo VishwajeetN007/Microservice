@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZnXuArVNvkE=",
+  "dgSpecHash": "BQUTooM2vO0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\LogService\\LogService.csproj",
+  "projectFilePath": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\BackendServices\\LogService\\LogService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VishwajitNikam\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
     "C:\\Users\\VishwajitNikam\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",

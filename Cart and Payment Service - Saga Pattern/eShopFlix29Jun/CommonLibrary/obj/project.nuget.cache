@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6gVNrOc4yIs=",
+  "dgSpecHash": "BctM6ESWqOU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Public\\Documents\\UpdatedScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\CommonLibrary\\CommonLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Public\\Documents\\NewestScholarHat\\Microservice\\Cart and Payment Service - Saga Pattern\\eShopFlix29Jun\\CommonLibrary\\CommonLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VishwajitNikam\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\VishwajitNikam\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
