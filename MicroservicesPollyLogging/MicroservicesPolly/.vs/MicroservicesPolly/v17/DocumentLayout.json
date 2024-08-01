@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB0DD0-CB9B-4E90-BE31-827D17AFDF7F}|OrderService\\OrderService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB0DD0-CB9B-4E90-BE31-827D17AFDF7F}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB0DD0-CB9B-4E90-BE31-827D17AFDF7F}|OrderService\\OrderService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21DB0DD0-CB9B-4E90-BE31-827D17AFDF7F}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB0DD0-CB9B-4E90-BE31-827D17AFDF7F}|OrderService\\OrderService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21DB0DD0-CB9B-4E90-BE31-827D17AFDF7F}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB456520-1863-4554-B787-F723A96A9F96}|InventoryService\\InventoryService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\inventoryservice\\inventoryservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB456520-1863-4554-B787-F723A96A9F96}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\inventoryservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\logservice\\logservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|solutionrelative:logservice\\logservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\logservice\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|solutionrelative:logservice\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB0DD0-CB9B-4E90-BE31-827D17AFDF7F}|OrderService\\OrderService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB0DD0-CB9B-4E90-BE31-827D17AFDF7F}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\logservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|solutionrelative:logservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\logservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|solutionrelative:logservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\logservice\\models\\exceptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|solutionrelative:logservice\\models\\exceptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\logservice\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53A3E92E-4A96-407C-B69A-FEC4E7EA3A19}|LogService\\LogService.csproj|solutionrelative:logservice\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB456520-1863-4554-B787-F723A96A9F96}|InventoryService\\InventoryService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\inventoryservice\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB456520-1863-4554-B787-F723A96A9F96}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DB0DD0-CB9B-4E90-BE31-827D17AFDF7F}|OrderService\\OrderService.csproj|c:\\users\\public\\documents\\microservicespollylogging\\microservicespolly\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DB0DD0-CB9B-4E90-BE31-827D17AFDF7F}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryService",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\InventoryService\\InventoryService.csproj",
+              "RelativeDocumentMoniker": "InventoryService\\InventoryService.csproj",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\InventoryService\\InventoryService.csproj",
+              "RelativeToolTip": "InventoryService\\InventoryService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T14:40:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogService",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\LogService.csproj",
+              "RelativeDocumentMoniker": "LogService\\LogService.csproj",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\LogService.csproj",
+              "RelativeToolTip": "LogService\\LogService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T14:40:36.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "LogService\\Controllers\\LogController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\Controllers\\LogController.cs",
+              "RelativeToolTip": "LogService\\Controllers\\LogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:01:52.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\OrderService\\appsettings.json",
+              "RelativeToolTip": "OrderService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T09:01:45.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:23:01.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:00:01.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.csproj",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T08:50:18.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\Models\\ExceptionModel.cs",
+              "RelativeDocumentMoniker": "LogService\\Models\\ExceptionModel.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\Models\\ExceptionModel.cs",
+              "RelativeToolTip": "LogService\\Models\\ExceptionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:01:49.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\docker-compose.yml",
+              "RelativeDocumentMoniker": "LogService\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\docker-compose.yml",
+              "RelativeToolTip": "LogService\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-01T10:02:15.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\appsettings.json",
+              "RelativeDocumentMoniker": "LogService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\appsettings.json",
+              "RelativeToolTip": "LogService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T10:13:56.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAD4/J8EwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:38:06.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\Program.cs",
+              "RelativeDocumentMoniker": "LogService\\Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\LogService\\Program.cs",
+              "RelativeToolTip": "LogService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:45:11.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\InventoryService\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroservicesPollyLogging\\MicroservicesPolly\\InventoryService\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "InventoryService\\Controllers\\InventoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:15:20.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
