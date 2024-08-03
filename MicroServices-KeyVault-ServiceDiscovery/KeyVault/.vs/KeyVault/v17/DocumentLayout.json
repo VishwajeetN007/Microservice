@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|c:\\users\\public\\documents\\microservices-keyvault-servicediscovery\\keyvault\\keyvault\\keyvault.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|solutionrelative:keyvault\\keyvault.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|c:\\users\\public\\documents\\microservices-keyvault-servicediscovery\\keyvault\\keyvault\\controllers\\vaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|solutionrelative:keyvault\\controllers\\vaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|c:\\users\\public\\documents\\microservices-keyvault-servicediscovery\\keyvault\\keyvault\\services\\keyvaultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|solutionrelative:keyvault\\services\\keyvaultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|c:\\users\\public\\documents\\microservices-keyvault-servicediscovery\\keyvault\\keyvault\\services\\ikeyvaultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|solutionrelative:keyvault\\services\\ikeyvaultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|c:\\users\\public\\documents\\microservices-keyvault-servicediscovery\\keyvault\\keyvault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|solutionrelative:keyvault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|c:\\users\\public\\documents\\microservices-keyvault-servicediscovery\\keyvault\\keyvault\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E84B5F6-F006-42BF-9774-D257F62B27E3}|KeyVault\\KeyVault.csproj|solutionrelative:keyvault\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VaultController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\Controllers\\VaultController.cs",
+              "RelativeDocumentMoniker": "KeyVault\\Controllers\\VaultController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\Controllers\\VaultController.cs",
+              "RelativeToolTip": "KeyVault\\Controllers\\VaultController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:30:02.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyVault.csproj",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\KeyVault.csproj",
+              "RelativeDocumentMoniker": "KeyVault\\KeyVault.csproj",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\KeyVault.csproj",
+              "RelativeToolTip": "KeyVault\\KeyVault.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T06:27:53.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\Program.cs",
+              "RelativeDocumentMoniker": "KeyVault\\Program.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\Program.cs",
+              "RelativeToolTip": "KeyVault\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:29:17.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\appsettings.json",
+              "RelativeDocumentMoniker": "KeyVault\\appsettings.json",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\appsettings.json",
+              "RelativeToolTip": "KeyVault\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T06:28:30.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyVaultService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\Services\\KeyVaultService.cs",
+              "RelativeDocumentMoniker": "KeyVault\\Services\\KeyVaultService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\Services\\KeyVaultService.cs",
+              "RelativeToolTip": "KeyVault\\Services\\KeyVaultService.cs",
+              "ViewState": "AQIAAAMAAAAAAIA0SiouwCAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:28:05.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKeyVaultService.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\Services\\IKeyVaultService.cs",
+              "RelativeDocumentMoniker": "KeyVault\\Services\\IKeyVaultService.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\MicroServices-KeyVault-ServiceDiscovery\\KeyVault\\KeyVault\\Services\\IKeyVaultService.cs",
+              "RelativeToolTip": "KeyVault\\Services\\IKeyVaultService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:28:01.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

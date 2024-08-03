@@ -1,0 +1,28 @@
+{
+  "Routes": [
+    {
+        //Refer line no 4 api of ocelot.json file
+        "DownstreamPathTemplate": "/api/product/{everything}",
+        "DownstreamScheme": "https",
+        "ServiceName": "CatalogService",
+        "UpstreamPathTemplate": "/catalog/{everything}",
+        "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/auth/{everything}",
+      "DownstreamScheme": "https",
+      "ServiceName": "AuthService",
+      "UpstreamPathTemplate": "/auth/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    }
+  ],
+    "GlobalConfiguration": {
+        "BaseUrl": "https://localhost:7160",
+        "ServiceDiscoveryProvider": {
+            "Scheme": "http",
+            "Host": "localhost",
+            "Port": 8500,
+            "Type": "Consul"
+        }
+    }
+}
